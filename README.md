@@ -22,11 +22,11 @@ The method enhances contrast, restores colors, and produces a clearer image.
 
 🔹 Input Image
 
-![Input](results/Input.jpg)
+![Input](Input.jpg)
 
 🔹 Output Image (Dehazed)
 
-![Output](results/Output.jpg)
+![Output](Output.jpg)
 
 ---
 
